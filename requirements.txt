@@ -1,0 +1,12 @@
+
+streamlit
+fastapi
+uvicorn[standard]
+groq
+python-dotenv
+pydantic
+pandas
+pypdf
+pytest
+httpx
+langgraph
